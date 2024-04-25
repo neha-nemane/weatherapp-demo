@@ -1,3 +1,4 @@
 # weatherapp-demo
-This is my first Git repository
-Author: Neha Nemane
+This is my first Git repository.
+<br>
+Author - Neha Nemane
